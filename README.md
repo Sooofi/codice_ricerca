@@ -17,10 +17,10 @@ using namespace std;
 
 ///struct
 struct rubrica{
-    int codiceContatto;              ///codice ID contatto
-    string n_telefono;               ///numero di telefono
-    string nome;                    ///nome
-    string cognome;                ///cognome
+    int codiceContatto;              //codice ID contatto
+    string n_telefono;               //numero di telefono
+    string nome;                    //nome
+    string cognome;                //cognome
 }contatto[DIM];
 
 void inserimento()
